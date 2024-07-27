@@ -31,4 +31,4 @@ Stats:
  
 Image of Data:
 
-![Population distribution map of Denmark]()
+![Population distribution map of Denmark](https://github.com/nyghts7/denmark/blob/main/denmark.png)
