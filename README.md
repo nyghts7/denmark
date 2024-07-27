@@ -16,6 +16,8 @@ Population Source: CityPopulation and StatBank Denmark (StatBank Denmark was use
 
 [Processed JSON File](https://github.com/nyghts7/denmark/blob/main/denmark.txt)
 
+Coordinate Data is from [OpenStreetMap](https://www.openstreetmap.org/copyright) via [overpass-turbo.eu](https://github.com/tyrasd/overpass-turbo)
+
 Stats:
 + 1,398 settlements
 + 5,269,703 total population
