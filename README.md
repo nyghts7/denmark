@@ -10,11 +10,11 @@ Population Source: CityPopulation and StatBank Denmark (StatBank Denmark was use
 
 [Legal Notice from StatBank Denmark](https://www.dst.dk/en/presse/kildeangivelse)
 
-[Raw Excel File]()
+[Raw StatBank Denmark Excel File](https://github.com/nyghts7/denmark/blob/main/202472761155474159655BY1.xlsx)
 
-[Processed Excel File with CityPopulation Data]()
+[Processed Excel File with CityPopulation Data](https://github.com/nyghts7/denmark/blob/main/denmark-book.xlsx)
 
-[Processed JSON File]()
+[Processed JSON File](https://github.com/nyghts7/denmark/blob/main/denmark.txt)
 
 Stats:
 + 1,398 settlements
