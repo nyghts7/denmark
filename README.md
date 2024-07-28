@@ -1,6 +1,6 @@
 Compiled by nyghts
 
-Population Source: CityPopulation and StatBank Denmark (StatBank Denmark was used to break up Greater Copenhagen)
+Population Source: CityPopulation and StatBank Denmark (StatBank Denmark was used to break up Greater Copenhagen) (2024)
 
 [Location of Data from CityPopulation](https://citypopulation.de/en/denmark/) (See REGIONS: Urban Settlements)
 
